@@ -10,9 +10,3 @@ Full Stack Todo List Tracker - Using SpringBoot for backend API and React to cre
 
 
 Soundboard - Using Java to create a soundboard where user can store their sound files and play them using a bind
-
-
-
-
-    
-
